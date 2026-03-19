@@ -1,4 +1,3 @@
-[משחקי-חסידות (11).html](https://github.com/user-attachments/files/26121509/-.11.html)
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
